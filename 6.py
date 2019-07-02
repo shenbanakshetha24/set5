@@ -1,2 +1,2 @@
-o=int(input())
-print(o+1)
+p=int(input())
+print(p+1)
