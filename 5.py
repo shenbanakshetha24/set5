@@ -1,2 +1,3 @@
 d=int(input())
-print(len(d))
+l=len(str(d))
+print(l)
