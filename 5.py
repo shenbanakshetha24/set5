@@ -1,3 +1,2 @@
-d=input()
-e=int(d)
-print(len(e))
+d=int(input())
+print(len(d))
