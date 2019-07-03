@@ -1,2 +1,2 @@
-p=int(input())
-print(p+1)
+pgh=int(input())
+print(pgh+1)
